@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\bin\Debug\Radio_Kontrola.exe.config
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\bin\Debug\Radio_Kontrola.exe
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\bin\Debug\Radio_Kontrola.pdb
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\obj\Debug\Radio_Kontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\obj\Debug\Radio_Kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\obj\Debug\Radio_Kontrola.Form1.resources
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\obj\Debug\Radio_Kontrola.Properties.Resources.resources
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\obj\Debug\Radio_Kontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\obj\Debug\Radio_Kontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\obj\Debug\Radio_Kontrola.exe
+C:\Users\ucenik\Desktop\Radio_Kontrola\Radio_Kontrola\obj\Debug\Radio_Kontrola.pdb
